@@ -11,7 +11,7 @@ from src.llm.llm_handler import GroqLLM
 
 st.set_page_config(layout="wide")
 
-# CHANGE: Added CSS to handle the "Notes" toggle visibility and fixed positioning
+
 st.markdown("""
     <style>
     .main .block-container {
